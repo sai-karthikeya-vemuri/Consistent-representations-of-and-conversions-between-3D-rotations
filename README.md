@@ -1,5 +1,5 @@
 # Consistent-representations-of-and-conversions-between-3D-rotations
-These programs implement explicit rotation conversion algorithms (commonly used in Materials Science community.) are described. For each conversion, the section title provides a shorthand indicator of the conversion, with the first two letters describing the input representation, and the last two characters the output representation.\
+These programs implement explicit rotation conversion algorithms commonly used in Materials Science community. For each conversion, the function name provides a shorthand indicator of the conversion, with the first two letters describing the input representation, and the last two characters the output representation.\
 Each program has some unit tests.\
 The following conventions are followed:\
 Convention 1. When dealing with 3D rotations, all Cartesian reference frames will be
